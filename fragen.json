@@ -1,0 +1,125 @@
+{
+    "fragen" : [
+        {
+            "name" : "Geschlecht",
+            "typ" : "geschlecht",
+            "frage" : "Welches Geschlecht hast du?"
+        },
+        {
+            "name" : "Gruppe",
+            "typ" : "gruppe",
+            "frage": "In welcher Gruppe warst du heute?"
+        },
+        {
+            "name" : "Besuchsanzahl",
+            "typ" : "anzahl",
+            "frage": "Der wie vielte Schulbesuch es ist beim School Lab?"
+        },
+        {
+            "name" : "Insgesamt",
+            "typ" : "bewertung",
+            "frage" : "Wie fandest du den Besuch im DLR_School_Lab insgesamt?"
+        },
+        {
+            "name" : "Begrüßung",
+            "typ" : "bewertung"
+        },
+        {
+            "name" : "Betreuung",
+            "typ" : "bewertung",
+            "frage": "Betreuung während des Experimentierens"
+        },
+        {
+            "name": "Führung",
+            "typ": "bewertung"
+        },
+        {
+            "name": "Verabschiedung",
+            "typ": "bewertung"
+        },
+        {
+            "name" : "Eingangshalle (Foyer)",
+            "typ" : "bewertung3"
+        },
+        {
+            "name" : "Labore",
+            "typ" : "bewertung3" 
+        },
+        {
+            "name": "Antriebstechnik",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Asteriodenchaos",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Infrarot",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Lageregelung",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Landenavigation",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Probenanalyse",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Nebelkammer",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Robotik",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Schwerlosigkeit",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Röntgenspektroskopie",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Vakuum",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Weltraumwetter",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "3D",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Raketenstart",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Open School_Lab",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "Planetenspecial",
+            "typ": "bewertung3"
+        },
+        {
+            "name": "CAD",
+            "typ": "bewertung3"
+        }
+    ],
+    "fragetypen" : {
+        "bewertung3" : {
+            "fragen" : [
+                "Gesamtbewertung", "Interesse",
+                "Verständlichkeit"
+            ]
+        }
+    }
+}

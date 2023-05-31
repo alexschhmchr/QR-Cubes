@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scube"
+version = "0.0.1"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pyside6",
+    "jinja2",
+    "matplotlib",
+    "xlsxwriter",
+    "pandas",
+    "numpy",
+    "jsonschema",
+    "opencv-python",
+    "opencv-contrib-python",
+]
+
+[project.scripts]
+scube = "scube.app:main"
